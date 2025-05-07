@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6To16Lcd/bMRqJCcGSeW40C8pXbYnHG0S1/M1wrdDts=",
+  "Source": "API.Identity",
+  "BasePath": "_content/API.Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
